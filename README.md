@@ -1,7 +1,5 @@
-[![MasterHead](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwSLoqG4FIYlaJMtUspuFmG4sIpiXaFR_5JoR9AiiFLTmEmSANh7hpEy0zrXpi28Eg07xJ6STKluaTO-Mz1f7E4BjjYa6nXRoKwvZdV0RzoMTDVUro8i5VchDLU1n2qEa9g_qq1xuJGh3kmVgdIAcLK-IfiezD1NZBg4YcHIJDAI-1QpHI9Fov8b_m/s1600/GDG_GDE%20Machine%20Learning%20v1.png)](https://mohammadanash.io)
 <h1 align="center">Hi 👋, I'm Mohammad Anash</h1>
 <h3 align="center">A passionate Machine learning developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS16JK8hK-Ik6lXKx35eJwhnUPUPUov2h0itw&usqp=CAU">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anash3&label=Profile%20views&color=0e75b6&style=flat" alt="anash3" /> </p>
 
@@ -18,9 +16,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/anash056" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anash056" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/mohammad-anash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/mohammad-anash" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/https://www.codechef.com/users/anash5" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/anash5" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/mohammadanash424/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/mohammadanash424/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mohammad-anash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammad-anash" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/anash5" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="anash5" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/mohammadanash424" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mohammadanash424" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
