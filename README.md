@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammad Anash</h1>
-<h3 align="center">Machine learning intern @ edgebricks</h3>
+<h3 align="center">AI Engineer @ edgebricks</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anash3&label=Profile%20views&color=0e75b6&style=flat" alt="anash3" /> </p>
 
