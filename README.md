@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/anash056" target="blank"><img src="https://img.shields.io/twitter/follow/anash056?logo=twitter&style=for-the-badge" alt="anash056" /></a> </p>
 
-- 🔭 I’m currently working on **Deep Learning**
+- 🔭 I’m currently working on **Generative AI (NLP)**
 
 - 💬 Ask me about **Machine learning,Deep learning**
 
